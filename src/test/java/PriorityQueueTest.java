@@ -36,7 +36,7 @@ public class PriorityQueueTest {
                 Arguments.of(new int[]{100,-99,50}, new int[]{-99,50,100}),
                 Arguments.of(new int[]{8,7,0,1}, new int[]{0,1,7,8}),
                 Arguments.of(new int[]{-666,-87,444,1,5}, new int[]{-666,-87,1,5,444})
-        );
+        ); 
     }
 
     @Test
